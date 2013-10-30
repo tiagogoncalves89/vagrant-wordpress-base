@@ -30,7 +30,7 @@ Open the [Wordpress] in web browser
  - [Tiago de Assis Gonçalves]
 
 ## Copyright
-Copyright (c) 2013 [Tiago de Assis Gonçalves]. See [LICENSE](LICENSE.md) for details.
+Copyright (c) 2013 [Tiago de Assis Gonçalves]. See [LICENSE](LICENSE) for details.
 
 [Git]: http://git-scm.com/
 [Virtualbox]: https://www.virtualbox.org/

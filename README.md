@@ -2,7 +2,7 @@
 
 A [Vagrant] base project for building [Wordpress] sites.
 
-This is a simple project that provision a development VM with ubuntu 12.04 + nginx + php5 + mysql hosted on [http://tiagogoncalves.com.br/vagrant/virtualbox/ubuntu-12.04-nginx-mysql-php5.box](http://tiagogoncalves.com.br/vagrant/virtualbox/ubuntu-12.04-nginx-mysql-php5.box).
+This is a simple project that provision a development VM with ubuntu 12.04 + nginx + php5 + mysql hosted on [http://files.tiagogoncalves.com.br/vagrant/virtualbox/ubuntu-12.04-nginx-mysql-php5.box](http://files.tiagogoncalves.com.br/vagrant/virtualbox/ubuntu-12.04-nginx-mysql-php5.box).
 
 ## Requirements
  * [Git]
